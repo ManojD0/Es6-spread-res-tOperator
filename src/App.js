@@ -33,6 +33,7 @@ ObjectSpread=()=>{
     ...this.state.ObjectSpread,work:false
  
 }
+//ObejctRest
 let {name}=this.state.ObjectSpread
 console.log("fdhf",name)
 this.setState({
